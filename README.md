@@ -2,6 +2,8 @@
 
  Enjoy your delightful Heart Scroll Animation!
 
+ HTML, CSS, JavaScript is used to creat Heart Scrolling Animation.
+
 Heart Size Adjustment: Hearts now vary between 20px and 80px, ensuring visibility without being too obtrusive.
 
 Floating Animation: Hearts float upwards while fading out, giving a whimsical effect.
